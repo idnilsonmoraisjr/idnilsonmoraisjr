@@ -52,10 +52,6 @@
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=idnilsonmoraisjr&hide_border=true&count_private=true&show_icons=true&hide_border=true" />
     </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idnilsonmoraisjr&layout=compact&count_private=true&show_icons=true&include_all_commits=true&count_private=true"
-        >
-    </p>
 </details>
 
 <hr/>
