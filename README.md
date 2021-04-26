@@ -47,7 +47,10 @@
   <summary><b>📊 GitHub  Analytics ⚙</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/?username=idnilsonmoraisjr&count_private=true&show_icons=true&hide_border=true" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idnilsonmoraisjr&layout=compactcount_private=true" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/?username=idnilsonmoraisjr&count_private=true&show_icons=true" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=idnilsonmoraisjr&hide_border=true&count_private=true&show_icons=true&hide_border=true" />
